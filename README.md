@@ -1,2 +1,2 @@
 # gh01
-my gh 01 application
+my gh 01 applications
